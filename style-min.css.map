@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAE,CACE,KAAK,CAAE,IAAI",
+"sources": ["_src/style.sass"],
+"names": [],
+"file": "style-min.css"
+}
